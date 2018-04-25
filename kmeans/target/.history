@@ -1,0 +1,87 @@
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+runMain kmeans.KMeansRunner
+compile
+test
+compile
+runMain kmeans.KMeansRunner
+compile
+test
+compile
+runMain kmeans.KMeansRunner
+compile
+test
+runMain kmeans.KMeansRunner
+compile
+test
+runMain kmeans.KMeansRunner
+compile
+test
+submit vmcardona@gmail.com d5gpmE3RYmiJcyr7
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+runMain kmeans.KMeansRunner
+submit vmcardona@gmail.com q7p9o7ylaRmS61Yo
+compile
+test
+compile
+test
+runMain kmeans.KMeansRunner
+submit vmcardona@gmail.com auUvKr4GMTphSYaY
+run-main kmeans.fun.ScalaShop
+compile
+run-main kmeans.fun.ScalaShop

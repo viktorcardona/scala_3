@@ -1,0 +1,127 @@
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/6s/nlh6nkk50v77v8j1gc3nly1hv6pf0t/T/sbt-structure.xml
+pwd
+compile
+test
+compile
+test
+compile
+test
+compile
+recursive value x$1 needs type
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+runMain barneshut.BarnesHut
+last compile:runMain
+runMain barneshut.BarnesHut
+compile
+test
+runMain barneshut.BarnesHut
+compile
+test
+compile
+test
+runMain barneshut.BarnesHut
+test
+submit vmcardona@gmail.com 7JWg6kl97P7GWpYx
+compile
+test
+runMain barneshut.BarnesHut
+compile
+test
+runMain barneshut.BarnesHut
+compile
+test
+submit vmcardona@gmail.com xWGuFsTC1X0yJfny
+test
+compile
+test
+runMain barneshut.BarnesHut
+test
+submit vmcardona@gmail.com 1ngtcHu3nROa1MhW
+compile
+test
+compile
+test
+compile
+test
+runMain barneshut.BarnesHut
+test
+submit vmcardona@gmail.com 08VcsWpI6fVBnwSH
+test
+runMain barneshut.BarnesHut
+test
+runMain barneshut.BarnesHut
+test
+submit vmcardona@gmail.com  ieGV6i4Rs69gMkuL
+runMain barneshut.BarnesHut
+compile
+test
+runMain barneshut.BarnesHut
+compile
+test
+runMain barneshut.BarnesHut
+test
+submit vmcardona@gmail.com p8GyNR4WvnHB1jfz
+compile
+test
+runMain barneshut.BarnesHut
+compile
+test
+compile
+test
+submit vmcardona@gmail.com vjpkpyFaO2FwCVAQ
+test
+submit vmcardona@gmail.com RqHpz6WZL71LDtXL
+test
+runMain barneshut.BarnesHut
+test
+submit vmcardona@gmail.com kqYw5k1TyGY2EoNC
+test
+submit vmcardona@gmail.com wTnOp0XnsXWU35gc
+test
+submit vmcardona@gmail.com p74aJ2fUOUgdgl2j
+runMain barneshut.BarnesHut
+ 
+     
+compile
+test
+runMain barneshut.BarnesHut
+test
+compile
+test
